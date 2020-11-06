@@ -73,5 +73,5 @@ for event in events {
 		continue
 	}
 	let link = zoomMatches[0]
-	print("\(title), \(link)")
+	print("\(title),\(link)")
 }
